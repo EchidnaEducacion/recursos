@@ -11,7 +11,7 @@
 #define Mic A7    //Micrófono
 //LEDes nunha matriz para simplificar o manexo
 int ledPins[] = { 255, L_Gre, L_Orn, L_Red, RGB_R, RGB_G, RGB_B };
-int V_Max = 20;  //valor máximo que queremos medir
+int V_Max = 30;  //valor máximo que queremos medir
 void setup() {
   //Definimos os LEDes como saídas
   for (int i = 0; i < 7; i++) {
