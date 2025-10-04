@@ -19,7 +19,7 @@
 
 ## EchidnaBlack2
 
-![EchidnaBlack](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.PNG)
+<img src="[/MarkdownToolboxSmall.png](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.PNG)" width="255" height="180"/>
 
 [Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.svg)
 
