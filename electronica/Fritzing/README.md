@@ -34,6 +34,18 @@
 
 [Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/manzana/manzana.fzpz)
 
+https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.png
+
+## Mano
+
+![Mano](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.png)
+
+[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.svg)
+
+[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano..fzpz)
+
+
+
 ## Author and license
 * Author: [Echidna Educación][TWI01]
 * License: [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
