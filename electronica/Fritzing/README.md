@@ -17,6 +17,15 @@
 [Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna%20Black.fzpz)
 
 
+## EchidnaBlack2
+
+![EchidnaBlack](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.png)
+
+[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.svg)
+
+[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.fzpz)
+
+
 ## Manzana
 
 ![Manzana](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/manzana/manzana.png)
