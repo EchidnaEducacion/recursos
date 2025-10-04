@@ -42,7 +42,7 @@ https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/
 
 [Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.svg)
 
-[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano..fzpz)
+[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.fzpz)
 
 
 
