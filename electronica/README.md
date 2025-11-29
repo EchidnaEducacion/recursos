@@ -2,15 +2,15 @@
 <img src="../Logos/Logo_Echidna.png" width="300" align="right">
 
 ## EchidnaShield
-[Esquemas electrónicos...](https://github.com/EchidnaShield/Recursos/tree/master/electronica/Shield)
+[Esquemas electrónicos...](https://github.com/EchidnaEducacion/Recursos/tree/master/electronica/Shield)
 
 ## EchidnaBlack
-[Esquemas electrónicos...](https://github.com/EchidnaShield/Recursos/tree/master/electronica/Black)
+[Esquemas electrónicos...](https://github.com/EchidnaEducacion/Recursos/tree/master/electronica/Black)
 ## EchidnaBlack2C
-[Esquemas electrónicos...](https://github.com/EchidnaShield/Recursos/tree/master/electronica/Black2C)
+[Esquemas electrónicos...](https://github.com/EchidnaEducacion/Recursos/tree/master/electronica/Black2C)
 
 ## Fritzing
-[Partes para simular](https://github.com/EchidnaShield/Recursos/tree/master/electronica/Fritzing)
+[Partes para simular](https://github.com/EchidnaEducacion/Recursos/tree/master/electronica/Fritzing)
 
 
 ## Licencia

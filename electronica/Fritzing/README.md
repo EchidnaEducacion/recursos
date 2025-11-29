@@ -1,48 +1,48 @@
 # Partes para Fritzing
-![Esquema](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Esquema.png)
+![Esquema](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Esquema.png)
 ## Echidna Shield
 
-![EchidnaShield](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.png)
+![EchidnaShield](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.png)
 
-[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.svg)
+[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.svg)
 
-[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna%20Shield.fzpz)
+[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna%20Shield.fzpz)
 
 ## Echidna Black
 
-![EchidnaBlack](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna_Black.png)
+![EchidnaBlack](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna_Black.png)
 
-[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna_Black.svg)
+[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna_Black.svg)
 
-[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna%20Black.fzpz)
+[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna%20Black.fzpz)
 
 
 ## EchidnaBlack2
 
-<img src="https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.PNG" width="255" height="180"/>
+<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.PNG" width="255" height="180"/>
 
-[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.svg)
+[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.svg)
 
-[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.fzpz)
+[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.fzpz)
 
 
 ## Manzana
 
-![Manzana](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/manzana/manzana.png)
+![Manzana](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.png)
 
-[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/manzana/manzana.svg)
+[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.svg)
 
-[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/manzana/manzana.fzpz)
+[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.fzpz)
 
-https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.png
+https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.png
 
 ## Mano
 
-![Mano](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.png)
+![Mano](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.png)
 
-[Imagen vectorial SVG](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.svg)
+[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.svg)
 
-[Archivo de Fritzing](https://github.com/EchidnaShield/Recursos/blob/master/electronica/Fritzing/mano/mano.fzpz)
+[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.fzpz)
 
 
 

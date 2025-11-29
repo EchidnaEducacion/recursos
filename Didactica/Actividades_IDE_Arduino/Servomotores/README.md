@@ -2,7 +2,7 @@
 Programas para controlar servomotores de posición y servomotores continuos.
 Los servomotores los conectamos en los pines I/O: D4/ D7/ D8
 
-## [1.Control servo posicion Joystick](https://github.com/EchidnaShield/Recursos/blob/master/Didactica/Actividades_IDE_Arduino/Servomotores/ServoPosicion/ServoPosicion.ino)
+## [1.Control servo posicion Joystick](https://github.com/EchidnaEducacion/Recursos/blob/master/Didactica/Actividades_IDE_Arduino/Servomotores/ServoPosicion/ServoPosicion.ino)
 Programa para controlar la posición de un servo con el eje X del joystick. El programa controla la posición a través de un mapeado. 
 
  <img src="Echidna-servo_bb.png" width="400" align="center">
