@@ -7,15 +7,6 @@ Carcasas y cajas de protección del escudo y la placa
 |[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/Echidnalogo.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/Tapa_logo.stl) |[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/tapanombre.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/tapa_nombre.stl)|[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Shield/carcasa.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Shield/Caixa_echidnaShield_001.stl)|[<img src="https://github.com/EchidnaEducacion/recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Black/Caixa_EchidnaBlack_Baixa.png" height="100"/> </p>](https://github.com/EchidnaEducacion/recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Black/Caixa_EchidnaBlack_Baixa.stl)|
 | ----- | ----- | ----- | ----- |
 
-## [Llaveros y pines](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Keyrings%20and%20pins)
- Llaveros y pines con el logo de Echidna listos para imprimir
-
-Echidna Logo Keyrings and Pins ready to print.
-
-|[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Keyrings%20and%20pins/Echidna_keyring.jpg" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Keyrings%20and%20pins/) |[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Keyrings%20and%20pins/Echidna_keyring2.jpg" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Keyrings%20and%20pins/)|[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Keyrings%20and%20pins/Echidna_pin.jpg" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Keyrings%20and%20pins/)|
-| ----- | ----- | ----- |
-
-
 ## [PrintBot UNO](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Printbot)
 
  Un printbot basado en Arduino Uno diseñado para utilizar con EchidnaShield.
