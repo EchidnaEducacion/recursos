@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/package_echidna_index.json

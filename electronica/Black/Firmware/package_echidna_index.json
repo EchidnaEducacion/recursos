@@ -12,12 +12,12 @@
                 {
                     "name": "Echidna AVR Boards",
                     "architecture": "avr",
-                    "version": "1.0.1",
+                    "version": "1.0.2",
                     "category": "Contributed",
-                    "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/EchidnaBlack-1.0.1.zip",
-                    "archiveFileName": "EchidnaBlack-1.0.1.zip",
-                    "checksum": "SHA-256:08D91E656477E7EB4EB9BFCCE21A76FD3B80FA60378ECB59846822743F3E8512",
-                    "size": "16669",
+                    "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/EchidnaBlack-1.0.2.zip",
+                    "archiveFileName": "EchidnaBlack-1.0.2.zip",
+                    "checksum": "SHA-256:AC1B39BB1D04DD80AA310689A36337071227AEA4D0AEC2F77EA2B2ECF93616FE",
+                    "size": "16673",
                     "boards": [
                         {
                             "name": "EchidnaBlack"
