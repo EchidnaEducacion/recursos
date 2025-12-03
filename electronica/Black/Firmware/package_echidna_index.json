@@ -14,7 +14,7 @@
                     "architecture": "avr",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/EchidnaEducacion/recursos/blob/master/electronica/Black/Firmware/EchidnaBlack-1.0.0.zip",
+                    "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/EchidnaBlack-1.0.0.zip",
                     "archiveFileName": "EchidnaBlack-1.0.0.zip",
                     "checksum": "SHA-256:55E49C26A6E00F4F692C08612C3757611B0C159DE290E4F36A51E4E032A501A9",
                     "size": "2780",
