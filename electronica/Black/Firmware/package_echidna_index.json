@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/EchidnaBlack-1.0.3.zip",
                     "archiveFileName": "EchidnaBlack-1.0.3.zip",
-                    "checksum": "SHA-256:A6357F8788B5C2F5CA615DE58F842B366303E7D77CEC489A376E240EABB9DA67",
-                    "size": "18461",
+                    "checksum": "SHA-256:A97540ED58EB2672EC55634F087CA68F5C47129BF7D0A2F4C65150DF1E422B17",
+                    "size": "18417",
                     "boards": [
                         {
                             "name": "EchidnaBlack"
