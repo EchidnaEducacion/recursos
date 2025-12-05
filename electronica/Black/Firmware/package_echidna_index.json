@@ -16,14 +16,17 @@
                     "category": "Contributed",
                     "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/EchidnaBlack-1.0.0.zip",
                     "archiveFileName": "EchidnaBlack-1.0.0.zip",
-                    "checksum": "SHA-256:41928966F23064F8633B75EC39769C7786796C0AAEB82755DC11A13D5D7567F7",
-                    "size": "19975",
+                    "checksum": "SHA-256:94DF879A3F548C719B5863BED9DC29DFEA123B8598871725AC5557A057A2E473",
+                    "size": "23483",
                     "boards": [
                         {
                             "name": "EchidnaBlack"
                         },
                         {
                             "name": "EchidnaShield"
+                        },
+                        {
+                            "name": "EchidnaWhite"
                         }
                     ],
                     "toolsDependencies": [
