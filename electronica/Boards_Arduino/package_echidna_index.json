@@ -14,7 +14,7 @@
                     "architecture": "avr",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/master/electronica/Black/Firmware/EchidnaAVR-1.0.0.zip",
+                    "url": "https://raw.githubusercontent.com/EchidnaEducacion/recursos/refs/heads/master/electronica/Boards_Arduino",
                     "archiveFileName": "EchidnaAVR-1.0.0",
                     "checksum": "SHA-256:4377a26926fb3bbe3023da073fceedfed98add270765d8b635c54e2526048382",
                     "size": "27512",
