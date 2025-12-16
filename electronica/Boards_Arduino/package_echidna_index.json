@@ -2,11 +2,11 @@
     "packages": [
         {
             "name": "Echidna",
-            "maintainer": "XDeSIG",
+            "maintainer": "Echidna team",
             "websiteURL": "https://echidna.es/hardware/",
-            "email": "xdesig@gmail.com.ess",
+            "email": "xdesig@gmail.com.es",
             "help": {
-                "online": "https://echidna.es/blog/"
+                "online": "https://echidna.es/"
             },
             "platforms": [
                 {
