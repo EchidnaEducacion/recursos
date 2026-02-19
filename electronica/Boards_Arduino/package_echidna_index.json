@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/EchidnaEducacion/recursos/raw/refs/heads/master/electronica/Boards_Arduino/EchidnaAVR-1.0.2.zip",
                     "archiveFileName": "EchidnaAVR-1.0.2",
-                    "checksum": "SHA-256:5A616042CEDE7DD4742B5BCD09EBCB5261180F4B9EA96556EC0766D8F3FB3C38",
-                    "size": "35337",
+                    "checksum": "SHA-256:520D53087303E05EF922819D3D6E9B3325374A5E24F84BE2B1C7F80D2D203320",
+                    "size": "35949",
                     "boards": [
                         {
                             "name": "EchidnaBlack"
