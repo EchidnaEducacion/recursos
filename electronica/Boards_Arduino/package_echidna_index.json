@@ -15,7 +15,7 @@
                     "version": "1.0.2",
                     "category": "Contributed",
                     "url": "https://github.com/EchidnaEducacion/recursos/raw/refs/heads/master/electronica/Boards_Arduino/EchidnaAVR-1.0.2.zip",
-                    "archiveFileName": "EchidnaAVR-1.0.2",
+                    "archiveFileName": "EchidnaAVR-1.0.2.zip",
                     "checksum": "SHA-256:520D53087303E05EF922819D3D6E9B3325374A5E24F84BE2B1C7F80D2D203320",
                     "size": "35949",
                     "boards": [
