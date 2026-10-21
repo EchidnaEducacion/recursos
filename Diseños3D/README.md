@@ -1,37 +1,14 @@
 # Diseños 3D
-Diseños 3D para ser impresos
 
-## [Carcasas](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Carcasas)
-Bases y tapa de protección del escudo y la placa
+> **Esta carpeta se ha trasladado a [EchidnaEducacion/fablab](https://github.com/EchidnaEducacion/fablab)**, el repositorio de fabricación digital (impresión 3D y corte láser).
 
-|[<img src="https://github.com/EchidnaEducacion/recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Black/Base_EchidnaBlack.png" height="100"/> </p>](https://github.com/EchidnaEducacion/recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Black/Base_EchidnaBlack.stl)|[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Shield/carcasa.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/Base_Shield/Caixa_echidnaShield_001.stl)|[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/Echidnalogo.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/Tapa_logo.stl) |[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/tapanombre.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Carcasas/TapaShield/tapa_nombre.stl)|
-| ----- | ----- | ----- | ----- |
+El historial de git se ha conservado en el nuevo repositorio.
 
-## [PrintBot UNO](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Printbot)
-
- Un printbot basado en Arduino Uno diseñado para utilizar con EchidnaShield.
-
-An Arduino Uno based printbot, designed to fit under EchidnaShield.
-
-[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Printbot/printbot_view2.jpg" height="150"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Printbot/)
-
-## [PrintBoat](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/PrintBoat)
-Convierte el  PrintBot UNO en un barco.
-
-Turn the PrintBot UNO into a boat.
-
-[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/PrintBoat/printboat1.jpg" height="150"/> </p>](https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/PrintBoat/)
-
-## [Complementos para láser en la torreta](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Torreta) |  [eltitomanolo](https://www.thingiverse.com/eltitomanolo/about)
-
-[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Torreta/Torreta.png" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Torreta)
-
-[Pan tilt head El Tito Manolo](https://www.thingiverse.com/thing:2467743)
-
-
-## [Soportes para mantener EchidnaShield a 90º](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Soportes_90%C2%BA)
-
-
-
-[<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/Dise%C3%B1os3D/Soportes_90%C2%BA/soportes_E.jpg" height="100"/> </p>](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D/Soportes_90%C2%BA)
-
+| Antes (`recursos/Diseños3D/…`) | Ahora (`fablab/…`) |
+| --- | --- |
+| `Carcasas/` | [impresion3d/carcasas](https://github.com/EchidnaEducacion/fablab/tree/main/impresion3d/carcasas) |
+| `Printbot/` | [impresion3d/printbot](https://github.com/EchidnaEducacion/fablab/tree/main/impresion3d/printbot) |
+| `PrintBoat/` | [impresion3d/printboat](https://github.com/EchidnaEducacion/fablab/tree/main/impresion3d/printboat) |
+| `Torreta/` | [impresion3d/torreta](https://github.com/EchidnaEducacion/fablab/tree/main/impresion3d/torreta) |
+| `Soportes_90º/` | [impresion3d/soportes-90](https://github.com/EchidnaEducacion/fablab/tree/main/impresion3d/soportes-90) |
+| `Keyrings and pins/` | [impresion3d/llaveros-pins](https://github.com/EchidnaEducacion/fablab/tree/main/impresion3d/llaveros-pins) |
