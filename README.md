@@ -20,7 +20,7 @@ Repositorio con recursos de Echidna Educacion
 [Partes para Fritzing](https://github.com/EchidnaEducacion/Recursos/tree/master/electronica/Fritzing)
 
 ## Diseños3D
-[Diseños para impresión 3D](https://github.com/EchidnaEducacion/Recursos/tree/master/Dise%C3%B1os3D)
+Los diseños para impresión 3D se han trasladado al repositorio [EchidnaEducacion/fablab](https://github.com/EchidnaEducacion/fablab).
 
 ## Aplicaciones Varias
 [Aplicaciones varias, test...](https://github.com/EchidnaEducacion/Recursos/tree/master/Aplicaciones%20Varias)
