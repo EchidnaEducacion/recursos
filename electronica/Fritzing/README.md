@@ -1,51 +1,47 @@
 # Partes para Fritzing
-![Esquema](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Esquema.png)
-## Echidna Shield
 
-![EchidnaShield](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.png)
-
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.svg)
-
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna%20Shield.fzpz)
-
-## Echidna Black
-
-![EchidnaBlack](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna_Black.png)
-
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna_Black.svg)
-
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Echidna_Black/Echidna%20Black.fzpz)
-
+> **Estos recursos se han trasladado a [Rgraficos](https://github.com/EchidnaEducacion/Rgraficos/tree/main/hardware/fritzing).**
+> Allí están las versiones actualizadas, junto con instrucciones para conseguir Fritzing e
+> importar las piezas. Esta carpeta se mantiene para no romper enlaces antiguos, pero ya no se
+> actualiza.
 
 ## EchidnaBlack2
 
-<img src="https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.PNG" width="255" height="180"/>
+<img src="EchidnaBlack2/EchidnaBlack2.PNG" alt="EchidnaBlack2" width="255">
 
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.svg)
+- [Imagen vectorial SVG](EchidnaBlack2/EchidnaBlack2.svg)
+- [Archivo de Fritzing](EchidnaBlack2/EchidnaBlack2.fzpz)
 
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaBlack2/EchidnaBlack2.fzpz)
+## Echidna Black
 
+<img src="Echidna_Black/Echidna_Black.png" alt="Echidna Black" width="250">
+
+- [Imagen vectorial SVG](Echidna_Black/Echidna_Black.svg)
+- [Archivo de Fritzing](Echidna_Black/Echidna%20Black.fzpz)
+
+## Echidna Shield
+
+<img src="EchidnaShield/Echidna_Shield.png" alt="EchidnaShield" width="250">
+<img src="EchidnaShield/Esquema.png" alt="Esquema de EchidnaShield" width="200">
+
+- [Imagen vectorial SVG](EchidnaShield/Echidna_Shield.svg)
+- [Archivo de Fritzing](EchidnaShield/Echidna%20Shield.fzpz)
 
 ## Manzana
 
-![Manzana](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.png)
+<img src="manzana/manzana.png" alt="Manzana" width="116">
 
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.svg)
-
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.fzpz)
-
-https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.png
+- [Imagen vectorial SVG](manzana/manzana.svg)
+- [Archivo de Fritzing](manzana/Manzana.fzpz)
 
 ## Mano
 
-![Mano](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.png)
+<img src="mano/mano.png" alt="Mano" width="150">
 
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.svg)
+- [Imagen vectorial SVG](mano/mano.svg)
+- [Archivo de Fritzing](mano/mano.fzpz)
 
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/mano/mano.fzpz)
+## Autoría y licencia
 
-
-
-## Author and license
-* Author: [Echidna Educación][TWI01]
-* License: [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
+- Autoría: [Echidna Educación](https://echidna.es)
+- Licencia: [Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
