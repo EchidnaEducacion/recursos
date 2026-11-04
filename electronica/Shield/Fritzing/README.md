@@ -1,21 +1,27 @@
 # Partes para Fritzing
-![Esquema](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/Esquema.png)
+
+> **Estos recursos se han trasladado a [Rgraficos](https://github.com/EchidnaEducacion/Rgraficos/tree/main/hardware/fritzing).**
+> Allí están las versiones actualizadas, junto con instrucciones para conseguir Fritzing e
+> importar las piezas. Esta carpeta se mantiene para no romper enlaces antiguos, pero ya no se
+> actualiza.
+
 ## Echidna Shield
 
-![EchidnaShield](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.png)
+<img src="EchidnaShield/Echidna_Shield.png" alt="EchidnaShield" width="300">
+<img src="Esquema.png" alt="Esquema de EchidnaShield" width="250">
 
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna_Shield.svg)
-
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/EchidnaShield/Echidna%20Shield.fzpz)
+- [Imagen vectorial SVG](EchidnaShield/Echidna_Shield.svg)
+- [Archivo de Fritzing](EchidnaShield/Echidna%20Shield.fzpz)
+- Esquema: [PNG](Esquema.png) · [SVG](EchidnaShield/Echidna%20Shield__schematic.svg)
 
 ## Manzana
 
-![Manzana](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.png)
+<img src="manzana/manzana.png" alt="Manzana" width="116">
 
-[Imagen vectorial SVG](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.svg)
+- [Imagen vectorial SVG](manzana/manzana.svg)
+- [Archivo de Fritzing](manzana/Manzana.fzpz)
 
-[Archivo de Fritzing](https://github.com/EchidnaEducacion/Recursos/blob/master/electronica/Fritzing/manzana/manzana.fzpz)
+## Autoría y licencia
 
-## Author and license
-* Author: [Echidna Educación][TWI01]
-* License: [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
+- Autoría: [Echidna Educación](https://echidna.es)
+- Licencia: [Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
